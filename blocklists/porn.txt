@@ -1,0 +1,2 @@
+### Blocklist for Porn Sites ###
+0.0.0.0 xnxx.com
